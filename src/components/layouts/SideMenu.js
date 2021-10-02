@@ -63,7 +63,7 @@ const useStyles = makeStyles((theme) => ({
       fontSize: "1.45rem",
     },
 
-    "& .css-jau5dn-MuiButtonBase-root-MuiListItemButton-root.Mui-selected": {
+    "& .MuiListItemButton-root.Mui-selected": {
       backgroundColor: theme.palette.common.lightRed,
       color: theme.palette.common.red,
       borderRadius: ".5rem",
